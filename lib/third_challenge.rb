@@ -12,7 +12,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero => {
-        name: ""
+        name: "",
         age: ""
         #your key/value pairs here
         },
@@ -20,17 +20,17 @@ def third_challenge
    },
    :capulet => {
       :patriarch => {
-        name: ""
+        name: "",
         age: ""
         #your key/value pairs here
         },
       :matriarch => {
-        name: ""
+        name: "",
         age: ""
         #your key/value pairs here
         },
       :heroine => {
-        name: ""
+        name: "",
         age: ""
         #your key/value pairs here
         },
